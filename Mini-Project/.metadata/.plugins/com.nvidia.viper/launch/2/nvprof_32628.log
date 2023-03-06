@@ -1,3 +1,0 @@
-==32628== NVPROF is profiling process 32628, command: C:\Users\antoi\Desktop\CUDA\Mini-Project\x64\Debug\Mini-Project.exe
-==32628== Some kernel(s) will be replayed on device 0 in order to collect all events/metrics.
-==32628== Generated result file: C:\Users\antoi\Desktop\CUDA\Mini-Project\.metadata\.plugins\com.nvidia.viper\launch\2\api_32628.log0

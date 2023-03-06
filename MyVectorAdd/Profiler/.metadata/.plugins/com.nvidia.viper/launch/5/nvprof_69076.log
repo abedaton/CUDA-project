@@ -1,3 +1,0 @@
-==69076== NVPROF is profiling process 69076, command: C:\Users\antoi\Desktop\CUDA\MyVectorAdd\x64\Debug\MyVectorAdd.exe
-==69076== Some kernel(s) will be replayed on device 0 in order to collect all events/metrics.
-==69076== Generated result file: C:\Users\antoi\Desktop\CUDA\MyVectorAdd\Profiler\.metadata\.plugins\com.nvidia.viper\launch\5\api_69076.log0
