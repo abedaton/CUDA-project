@@ -1,0 +1,230 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/Fdx64\Debug\vc143.pdb" -o C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\x64\Debug\kernel.cu.obj "C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu" 
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(76): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+  Remark: The warnings can be suppressed with "-diag-suppress <warning-number>"
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(80): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(81): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(82): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(85): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(86): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(95): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(100): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(104): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(76): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+  Remark: The warnings can be suppressed with "-diag-suppress <warning-number>"
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(80): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(81): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(82): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(85): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(86): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(95): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(100): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(104): warning #546-D: transfer of control bypasses initialization of:
+              variable "speedup"
+  (122): here
+              variable "memoryUsed"
+  (126): here
+              variable "memoryThroughput"
+  (127): here
+              variable "numOperation"
+  (129): here
+              variable "computationThroughput"
+  (130): here
+  
+  kernel.cu
+  tmpxft_0000b2f4_00000000-7_kernel.cudafe1.cpp
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\antoi\Desktop\CUDA\Lab_1\Lab_1\kernel.cu(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\antoi\Desktop\CUDA\Lab_1\x64\Debug\Lab_1.lib and object C:\Users\antoi\Desktop\CUDA\Lab_1\x64\Debug\Lab_1.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Lab_1.vcxproj -> C:\Users\antoi\Desktop\CUDA\Lab_1\x64\Debug\Lab_1.exe
